@@ -1,0 +1,56 @@
+[
+    {
+        "id" : "1001",
+        "name" : "Milkeway Galaxy",
+        "image" : "../assets/Milkeway.jpg",
+        "price" : "$170"
+    },
+    {
+        "id" : "1002",
+        "name" : "Andromeda Galaxy",
+        "image" : "../assets/Andromeda.jpg",
+        "price" : "$450"
+    },
+    {
+        "id" : "1003",
+        "name" : "Cat Eye Nebula",
+        "image" : "../assets/Cat Eye.jpg",
+        "price" : "$550"
+    },
+    {
+        "id" : "1004",
+        "name" : "Horsehead Nebula",
+        "image" : "../assets/Horsehead.jpg",
+        "price" : "$560"
+    },
+    {
+        "id" : "1005",
+        "name" : "Crab Nebula",
+        "image" : "../assets/Crab_Nebula.jpg",
+        "price" : "$0000"
+    },
+    {
+        "id" : "1006",
+        "name" : "Whirlpool Galaxy",
+        "image" : "../assets/Whirlpool Galaxy.jpg",
+        "price" : "$0000"
+    },
+    {
+        "id" : "1007",
+        "name" : "Black Eye Galaxy",
+        "image" : "../assets/Black Eye Galaxy.jpg",
+        "price" : "$0000"
+    },
+    {
+        "id" : "1011",
+        "name" : "Ring Nebula",
+        "image" : "../assets/Ring Nebula.jpg",
+        "price" : "$0000"
+    },
+    {
+        "id" : "1012",
+        "name" : "Dumbbell Nebula",
+        "image" : "../assets/Dumbbell Nebula.jpg",
+        "price" : "$0000"
+    }
+]

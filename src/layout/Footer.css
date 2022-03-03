@@ -1,0 +1,30 @@
+.Footer {
+    border-top: 1px solid gray;
+    padding: 10px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Footer button{
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 2px;
+}
+
+.Footer button.blue{
+    background-color: rgb(2,19,116);
+    color: #eee;
+}
+
+.Footer button.green{
+    background-color: rgba(0,128,49,0.397);
+    color: #333;
+}
+
+.Footer button.pink{
+    background-color: rgb(158, 11, 126);
+    color: #333;
+}
+
+

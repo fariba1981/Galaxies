@@ -1,0 +1,15 @@
+.posts{
+    padding: 0;
+    margin: 0;
+    font-family: 'roboto';
+    clear: left;
+}
+
+.paging {
+    list-style: none;
+    clear: left;
+}
+
+.active {
+    background-color: rgb(0,128,49);
+}

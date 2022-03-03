@@ -1,0 +1,32 @@
+.photos {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    padding: 0;
+    flex-wrap: wrap;
+}
+.photots li {
+    margin: 10px;
+    width: 200px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.photots li h3{
+    padding: 0;
+    margin: 5px;
+}
+.photots li img{
+    width: 150px;
+    height: 100px;
+}
+.photots li span{
+    padding: 10px;
+    width: 150px;
+    height: 20px;
+}
+.photots li button{
+    width: 150px;
+    border: 1px solid #27ae60;
+    color: #27ae60;
+    cursor: pointer;
+}
